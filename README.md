@@ -13,7 +13,7 @@
   Upload PDF documents, extract and chunk text with exact page tracking, generate 3072-dimensional vector embeddings, and query documents with Google Gemini providing grounded, cited answers with match scores.
 </p>
 
-[🚀 Live Demo](https://rag-document-qa-ff68.vercel.app/) • [⚡ Backend API](https://rag-document-qa-one.vercel.app/) • [📑 API Docs](#-api-reference) • [🛠️ Setup Guide](#-complete-environment--local-setup-guide)
+[🚀 Live Demo](https://rag-document-qa-theta.vercel.app/) • [⚡ Backend API](https://rag-document-qa-backend.vercel.app/) • [📑 API Docs](#-api-reference) • [🛠️ Setup Guide](#-complete-environment--local-setup-guide)
 
 </div>
 
